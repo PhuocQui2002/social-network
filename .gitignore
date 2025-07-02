@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# production
+/dist
+/build
+
+# misc
+.env
+*.log
+.DS_Store
+
+# editor folders
+.vscode
+.idea
