@@ -16,3 +16,10 @@
 - **Frontend:** React, Redux, Shadcn, Ant Design
 - **Backend:** Node.js, Express, Socket.io
 - **Cơ sở dữ liệu:** MongoDB
+
+## Giao diện
+
+![Home](https://github.com/user-attachments/assets/5ae909c0-59e8-4c14-babf-38049bdad934)
+![message](https://github.com/user-attachments/assets/a3af7b30-ecbe-4374-805e-9dcb4e302760)
+![Creat_Post](https://github.com/user-attachments/assets/49f8b419-d4da-4c84-a38e-99d7a057fa95)
+![Comment](https://github.com/user-attachments/assets/c545b085-4eb2-4182-bfd6-6ce0fa21d4f9)
